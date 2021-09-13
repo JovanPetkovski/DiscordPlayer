@@ -1,5 +1,5 @@
 Simple Discord Bot 
-Usage: ?join
-       ?play url
-       ?pause - for pausing and unpausing
+Usage: ?join \n
+       ?play url \n
+       ?pause - for pausing and unpausing \n
        
